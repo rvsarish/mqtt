@@ -1,0 +1,73 @@
+[
+    {
+      "topic": "sensor/temperature",
+      "message": {
+        "value": 22.5,
+        "unit": "C",
+        "sensorId": "sensor-001",
+        "location": "Living Room",
+        "status": "active"
+      }
+    },
+    {
+      "topic": "sensor/temperature",
+      "message": {
+        "value": 18.7,
+        "unit": "C",
+        "sensorId": "sensor-002",
+        "location": "Bedroom",
+        "status": "active"
+      }
+    },
+    {
+      "topic": "sensor/humidity",
+      "message": {
+        "value": 55,
+        "unit": "%",
+        "sensorId": "sensor-003",
+        "location": "Living Room",
+        "status": "inactive"
+      }
+    },
+    {
+      "topic": "sensor/humidity",
+      "message": {
+        "value": 60,
+        "unit": "%",
+        "sensorId": "sensor-004",
+        "location": "Bathroom",
+        "status": "active"
+      }
+    },
+    {
+      "topic": "sensor/motion",
+      "message": {
+        "value": 1,
+        "unit": "",
+        "sensorId": "sensor-005",
+        "location": "Garage",
+        "status": "active"
+      }
+    },
+    {
+      "topic": "sensor/light",
+      "message": {
+        "value": 450,
+        "unit": "lux",
+        "sensorId": "sensor-006",
+        "location": "Kitchen",
+        "status": "active"
+      }
+    },
+    {
+      "topic": "sensor/temperature",
+      "message": {
+        "value": 25.0,
+        "unit": "C",
+        "sensorId": "sensor-007",
+        "location": "Office",
+        "status": "active"
+      }
+    }
+  ]
+  
